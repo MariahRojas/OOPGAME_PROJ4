@@ -100,7 +100,7 @@
             $overlay.removeClass('start');
             $overlay.addClass('win');
         } else {
-            $('#game-over-message').text("YOU LOSE");
+            $('#game-over-message').text("Try again filthy mudblood!");
             $overlay.removeClass('start');
             $overlay.addClass('lose');
         }
