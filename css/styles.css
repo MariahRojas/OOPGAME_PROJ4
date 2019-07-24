@@ -199,7 +199,7 @@ button {
 
 .show {
   color: #fff;
-  background-color: #ffc400;
+  background-color: rgb(41, 10, 10);
   font-size: 20px;
   height: 65px;
   width: 65px;
@@ -219,7 +219,7 @@ button {
 }
 
 .chosen {
-  background: #ffc400;
+  background: rgb(41, 10, 10);
   border-radius: 5px;
   font-size: var(--font-size-medium);
   color: #FFFFFF;
